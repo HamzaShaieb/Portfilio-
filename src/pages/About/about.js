@@ -25,9 +25,9 @@ const About = () => {
             <Typography style={{fontSize:'20px',marginTop:'15px',opacity:'0.6'}}>A Fullstack Web Developper</Typography>
             <Typography style={{fontSize:'15px',marginTop:'15px',opacity:'0.4'}}>Passionate full-stack web developer with expertise in,<br/> JavaScript and a strong desire to assist others. Committed <br/> to success through a strong work ethic, motivation,<br/> and cooperative nature.</Typography>
             <Stack style={{display:'flex',flexDirection:'row',marginTop:'15px'}}>
-                 <a href='https://github.com/HamzaShaieb'><FaGithub className='icones' /> </a>
+              <a href='https://github.com/HamzaShaieb'><FaGithub className='icones' /> </a>
               <a href='https://www.linkedin.com/in/hamza-shaieb-software-developper/'><FaLinkedin className='icones' /> </a>
-                <a href='https://www.instagram.com/shaieb.hamza/'> <FaInstagram className='icones' /> </a>
+            <a href='https://www.instagram.com/shaieb.hamza/'> <FaInstagram className='icones' /> </a>
                <a href='https://twitter.com/DevShaieb68571'><FaTwitter className='icones' /> </a>
             </Stack>
             

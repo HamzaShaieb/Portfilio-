@@ -8,6 +8,7 @@
   height: 1008px;
   width: 1008px;
   text-decoration: none;
+  padding-top: 0;
   
     
   
@@ -91,4 +92,12 @@ a{
   background-color: #2FF3E0;
   border-radius: 50%;
   cursor: pointer;
+}
+
+.url{
+  font-size:'2522px';
+  margin-right:'25px';
+  text-decoration-color:'transparent';
+  color:'white';
+
 }
